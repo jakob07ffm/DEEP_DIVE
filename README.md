@@ -9,4 +9,4 @@ Deep Dive is a Pygame-based diving game where players control a diver exploring 
 - **Air Management**: Track and manage the diver's air supply.
 - **Item Collection**: Collect coins, green gems, and red gems for points.
 - **Level Up**: Upgrade the diver's tank level based on collected money.
-- **Tuto
+- **Tutorial**: An introductory tutorial explaining game mechanics.
